@@ -36,3 +36,17 @@ You have booked a silver ticket for Rs 100.
 Do you want to book another ticket? no
 
 Total amount to be paid: Rs 300
+
+Movie Ticket Booking System (Python)
+
+Developed a console-based ticket booking application using Python.
+Implemented dictionary-based pricing, input validation, and bill calculation.
+Used loops and conditional statements to support multiple ticket bookings.
+
+Ye project beginner level ke liye achha hai aur Python basics dikhata hai. Agla step ho sakta hai:
+
+Quantity add karna
+Discount system
+Seat booking
+Ticket receipt generate karna
+File me booking save karna
